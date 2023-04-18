@@ -1,4 +1,4 @@
-# c-environment
+# parallel-programming-2
 
 Config for vscode projects
 
