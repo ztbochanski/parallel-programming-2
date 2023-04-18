@@ -2,10 +2,10 @@
 
 Config for vscode projects
 
-.vscode
-├── c_cpp_properties.json
-├── launch.json
-├── settings.json
+.vscode <br>
+├── c_cpp_properties.json <br>
+├── launch.json <br>
+├── settings.json <br>
 └── tasks.json
 
 OpenMP library paths:
