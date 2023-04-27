@@ -16,3 +16,8 @@ Example:
 "-I/usr/local/opt/libomp/include",
 "-L/usr/local/opt/libomp/lib",
 ```
+
+Run Simulation and output to csv:
+```zsh
+bash simulation.sh >& results.csv
+```
