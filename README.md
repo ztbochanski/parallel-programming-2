@@ -21,7 +21,7 @@ Second, a system is represented by introducing a fourth user agent. The system b
 > Note that the instant gratification monkey is represented by periods of awakeness or sleeping. We can see that it's asleep when its value is 0.
 
 Figure 2. Ecosystem Observed with Instant Gratification Monkey
-![[monkey 1.svg]]
+![monkey](https://github.com/ztbochanski/parallel-programming-functional-decomposition/blob/cc13677c9d4060ffc176591e8e41743941e999cd/monkey%201.svg)
 
 Data:
 ![[Pasted image 20230426203542.png]]
