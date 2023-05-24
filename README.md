@@ -9,10 +9,10 @@ This simulation studies the effects of various agents within an ecosystem. It us
 First, a system is represented by three simple agents. The system below shows how the number of rabbits changes over a 72-month period in relation to precipitation, temperature, and ryegrass height.
 
 Figure 1. Ecoysytem Observed Without Monkey
-![[nomonkey 1.svg]]
+![nomonkey 1.svg](https://github.com/ztbochanski/parallel-programming-functional-decomposition/blob/132048a405fda98ebe5ab05c64a72c66f8841125/nomonkey%201.svg)
 
 Data:
-![[Pasted image 20230426203635.png]]
+![[0230426203635.png]]
 
 ### Simulation 2  -> Introduction of Instant Gratification 
 
@@ -24,7 +24,7 @@ Figure 2. Ecosystem Observed with Instant Gratification Monkey
 ![monkey](https://github.com/ztbochanski/parallel-programming-functional-decomposition/blob/cc13677c9d4060ffc176591e8e41743941e999cd/monkey%201.svg)
 
 Data:
-![[Pasted image 20230426203542.png]]
+![[20230426203542.png]]
 
 
 ### Commentary
